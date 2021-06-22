@@ -1,0 +1,8 @@
+{
+  "name": "@diplomas/protocol",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "tslib": "~2.2.0"
+  }
+}
